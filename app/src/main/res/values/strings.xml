@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App One</string>
+    <array name="generes">
+        <item>Rock</item>
+        <item>Bangla</item>
+        <item>pop</item>
+    </array>
+</resources>
