@@ -7,6 +7,10 @@
     tools:context=".MainActivity">
 
     <EditText
+        android:textAlignment="center"
+        android:drawableStart="@drawable/people_icon"
+        android:drawableLeft="@drawable/people_icon"
+        android:drawablePadding="8dp"
         android:id="@+id/editTextName"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
